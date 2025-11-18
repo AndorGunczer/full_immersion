@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+oF5NKRtiC8=",
+  "dgSpecHash": "cvx7K3kYb6s=",
   "success": true,
-  "projectFilePath": "/Users/andorgunczer/WORK/PERSONAL/finance-gamify/api-gateway/src/ApiGateway/ApiGateway/ApiGateway.csproj",
+  "projectFilePath": "/Users/andorgunczer/WORK/PERSONAL/finance-gamify/apps/api-gateway/src/ApiGateway/ApiGateway/ApiGateway.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
