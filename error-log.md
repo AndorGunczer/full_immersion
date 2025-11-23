@@ -63,3 +63,5 @@ ENOENT from spawnSync almost always means binary not found in the PATH of that p
 Always check interactive shell vs process environment.
 Node version can break child_process resolution — always consider downgrading to LTS if you see weird binary resolution bugs.
 GUI apps on macOS (VSCode, Finder-launched apps) may inherit a different environment than your terminal.
+
+validating /Users/andorgunczer/WORK/PERSONAL/finance-gamify/infra/docker/docker-compose.yaml: services.pgadmin.environment must be a mapping -> syntax error missing tab in docker-compose.yaml
