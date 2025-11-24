@@ -49,3 +49,7 @@ msbuild.wrn
 
 #environment variables
 .env
+
+#documents
+learned.md
+tech-doc.md
